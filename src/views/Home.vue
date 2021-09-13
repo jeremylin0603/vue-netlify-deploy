@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <img alt="Vue logo" src="../assets/logo.png">
-    <HelloWorld msg="Hellow Netlify"/>
+    <HelloWorld msg="Hellow Netlify :)"/>
   </div>
 </template>
 
